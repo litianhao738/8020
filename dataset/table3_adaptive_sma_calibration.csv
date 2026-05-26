@@ -1,0 +1,15 @@
+parameter,value
+short_window,20
+long_window,60
+vol_window,48
+trend_quantile,0.6
+trend_threshold,0.0015303890375585067
+vol_low_quantile,0.3
+vol_low,0.0004672847511702404
+vol_high_quantile,0.9
+vol_high,0.001286104257181743
+liquidity_threshold,1586.7741019868847
+tradable_sessions,"afternoon,morning"
+morning_avg_volume,2716.4084358958503
+afternoon_avg_volume,1586.7741019868847
+night_avg_volume,310.63824133349436

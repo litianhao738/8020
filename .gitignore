@@ -1,0 +1,6 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+analysis_samples/
+ai_method/
