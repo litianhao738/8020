@@ -222,7 +222,7 @@ dataset/figure4_oos_drawdown.png
 dataset/figure5_sma_parameter_heatmap.png
 ```
 
-## Notes for Report Writing
+## tips
 
 The recommended framing is:
 
@@ -232,5 +232,3 @@ Liquidity-Regime SMA is a risk-managed extension that uses only in-sample
 statistics to identify suitable trading regimes and liquid sessions.
 ```
 
-This keeps the project transparent, reproducible, and free from out-of-sample
-data snooping.
